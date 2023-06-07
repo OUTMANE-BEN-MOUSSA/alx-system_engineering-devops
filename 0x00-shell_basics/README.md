@@ -8,3 +8,4 @@ The file 6-firstdirectory creates a directory named my_first_directory in the /t
 The file 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 The file 8-firstdelete deletes the file betty in /tmp/my_first_directory
 The file 9-firstdirdeletion deletes the directory my_first_directory that is in the /tmp directory.
+The file 10-back changes the working directory to the previous one.
