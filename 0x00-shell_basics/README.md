@@ -1,1 +1,2 @@
-The file 0-current_working_directory.sh prints the absolute path name of the current working directory
+The file 0-current_working_directory prints the absolute path name of the current working directory
+The file 1-listit Displays the contents list of current directory
