@@ -14,3 +14,4 @@ The file 12-file_type prints the type of the file named iamafile. The file iamaf
 The file 13-symbolic_link a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 The file 14-copy_html copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 The file 100-lets_move  moves all files beginning with an uppercase letter to the directory /tmp/u.
+The fle 103-commas lists all the files and directories of the current directory, separated by commas (,).
