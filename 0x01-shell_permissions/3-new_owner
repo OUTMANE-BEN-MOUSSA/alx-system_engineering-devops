@@ -1,2 +1,2 @@
 #!/bin/bash
-shown -u betty hello
+chown -u betty hello
