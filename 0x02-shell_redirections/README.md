@@ -19,3 +19,5 @@ The file 17-hidethisword displays all the lines in the file /etc/passwd that do 
 The file 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 The file 19-AZ replaces all characters A and c from input to Z and e respectively.
 The file 20-hiago Create a script that removes all letters c and C from input.
+The file 21-reverse reverses its input.
+The file 22-users_and_homes displays all users and their home directories, sorted by users.
