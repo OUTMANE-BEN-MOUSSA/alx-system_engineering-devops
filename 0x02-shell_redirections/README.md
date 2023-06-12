@@ -5,3 +5,4 @@ The file 3-twofiles diplays the content of /etc/passwd and /etc/hosts
 The file 4-lastlines displays the last 10 lines of /etc/passwd.
 The file 5-firstlines displays  the first 10 lines of /etc/passwd.
 The file 6-third_line displays the third line of the file iacta.
+The file 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
